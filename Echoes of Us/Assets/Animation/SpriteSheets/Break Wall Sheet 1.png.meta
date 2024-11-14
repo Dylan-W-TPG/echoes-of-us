@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 9ffba9738821fb049ba03555214c3bd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc00e851eba87643ad7c8773d55748e
+      internalID: 833235977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3250
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04f1577d17cbc469554843a71d35a7
+      internalID: -547407801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3250
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3daefde6476b46935cdb1e688cff1
+      internalID: 1732881415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3250
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0eda64301b9ff418e0920b682536a2
+      internalID: 1449254830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3250
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9410ae7d45bccde40854f861f65d0fa4
+      internalID: 188603622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd41fa25af5c624f903f0dc26b77883
+      internalID: 213904651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2600
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0d7906c8adeb4bb10feb3a322551c
+      internalID: 920470469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2600
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b664b5edbd6c14a92546d2d64961d3
+      internalID: -1170596540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2600
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad31fc41dc94c47a87a4844a616af9
+      internalID: -1937802840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2600
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a65c2b2b7843041a0c74330d76dede
+      internalID: 838904602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1dc6efcc4fc204c8ee0c021c11c9b2
+      internalID: 269605244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1950
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c811b2322ecceb439b69273d8cb67f2
+      internalID: 806529661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1950
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e5993ebb9f174cbc616ef4a6fc677
+      internalID: 744019815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1950
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db151243153dc4e87ce0c6c506d851
+      internalID: 1482297223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1950
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddef99ff7f73a94991db3173434d47f
+      internalID: 533075819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b498c5121c3884ba62d2a7f59d1673
+      internalID: -686475696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1300
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8b62bc007bcd40bdabab0a0156c90
+      internalID: -2146725817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1300
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41928161b58b9468194469b64af32c
+      internalID: -403060545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1300
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece4d924141d6d4bb67bfe3281de384
+      internalID: -1021271595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1300
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d6dfe37c1dfa4fbc857ef1f69e239
+      internalID: -801518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99406ec485d4bcc4eac266487587bbfc
+      internalID: -184073540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 650
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8a0780337fa44290cd2974ce11a79
+      internalID: -307279535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 650
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338270c222bca984fa3c18c6fcb9f8d9
+      internalID: -372320823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 650
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7cf52569168a47896eb520cc053f5
+      internalID: 1071490303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 650
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e86e18ffdee049a446d414dfa1d07
+      internalID: 2052908873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f06f623c49af46b4a5284b7563b1e
+      internalID: -1625448772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break Wall Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ff5b664475ad4b8469e231d737df4
+      internalID: -1437360117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Break Wall Sheet 1_6: 920470469
+      Break Wall Sheet 1_0: 833235977
+      Break Wall Sheet 1_20: -184073540
+      Break Wall Sheet 1_14: 533075819
+      Break Wall Sheet 1_2: 1732881415
+      Break Wall Sheet 1_16: -2146725817
+      Break Wall Sheet 1_25: -1625448772
+      Break Wall Sheet 1_24: 2052908873
+      Break Wall Sheet 1_26: -1437360117
+      Break Wall Sheet 1_18: -1021271595
+      Break Wall Sheet 1_21: -307279535
+      Break Wall Sheet 1_1: -547407801
+      Break Wall Sheet 1_3: 1449254830
+      Break Wall Sheet 1_5: 213904651
+      Break Wall Sheet 1_8: -1937802840
+      Break Wall Sheet 1_11: 806529661
+      Break Wall Sheet 1_19: -801518948
+      Break Wall Sheet 1_7: -1170596540
+      Break Wall Sheet 1_9: 838904602
+      Break Wall Sheet 1_28: -432867365
+      Break Wall Sheet 1_10: 269605244
+      Break Wall Sheet 1_15: -686475696
+      Break Wall Sheet 1_12: 744019815
+      Break Wall Sheet 1_27: 416707626
+      Break Wall Sheet 1_29: 793415198
+      Break Wall Sheet 1_17: -403060545
+      Break Wall Sheet 1_22: -372320823
+      Break Wall Sheet 1_23: 1071490303
+      Break Wall Sheet 1_13: 1482297223
+      Break Wall Sheet 1_4: 188603622
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

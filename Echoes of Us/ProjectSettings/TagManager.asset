@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MonsterNode
+  - Monster
+  - Ground
+  - Wall
+  - Interactable
+  - Trolley
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - WallGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 3702693757
+    locked: 0
+  - name: Background2
+    uniqueID: 1225531853
+    locked: 0
+  - name: Player
+    uniqueID: 1039077807
+    locked: 0
+  - name: Foreground1
+    uniqueID: 1003391973
+    locked: 0
+  - name: Foreground2
+    uniqueID: 1325264009
+    locked: 0
